@@ -12,10 +12,6 @@ Grouping in SQL is essential for summarising data and generating reports. Here, 
 
 The ability to combine data from multiple tables or queries is crucial in database management. In this section, I showcase my proficiency in using JOINs and UNIONs to merge datasets, demonstrating different types of JOINs and the UNION operator for data manipulation.
 
-## Advanced JOINs and NULLs
-
-Advanced JOIN operations and handling NULL values are vital for complex data retrieval and analysis. Here, I delve into more advanced JOIN techniques, including self-joins and multi-table joins, while also addressing the challenges posed by NULL values in SQL queries.
-
 ## Subqueries in SQL
 
 Subqueries, or nested queries, offer a powerful way to retrieve data based on conditions from within another query. In this section, I demonstrate my ability to use subqueries effectively to retrieve specific datasets or perform complex data filtering.
@@ -26,3 +22,8 @@ SQL functions play a key role in performing operations on data, ranging from mat
 
 ##
 Each section of this portfolio is accompanied by SQL code snippets and explanations, providing insight into my SQL skills and how I apply them to solve real-world data management and analysis challenges. Whether you're looking for a SQL expert to manage databases, optimise queries, or extract insights from data, this portfolio demonstrates my readiness to take on SQL-related tasks with confidence and expertise.
+
+# SQL Project 
+
+This project compiles a series of inquiries that explore various SQL functions and queries. It incorporates all the concepts I've learned thus far in SQL, providing a comprehensive overview of the language's capabilities. The questions cover topics such as joins (including inner joins and left joins), filtering, grouping data using GROUP BY, and the utilization of functions like LIKE and subqueries. Through these inquiries, I aim to strengthen my understanding of SQL while also offering a comprehensive summary of its features and applications.
+
