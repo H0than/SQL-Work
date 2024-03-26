@@ -40,13 +40,7 @@ SELECT title FROM movies WHERE (genre = 'drama' OR 'comedy') AND (title <> 'tita
 -- Grouping in SQL:
 
 SELECT genre, count(*) FROM general_info GROUP BY genre;
-SELECT 
-    year, COUNT(*)
-FROM
-    ratings
-WHERE
-    votes > 1500
-GROUP BY year;
+SELECT year, COUNT(*) FROM ratings WHERE votes > 1500 GROUP BY year;
 
 -- Combining Data With JOINs and UNIONs:
 
